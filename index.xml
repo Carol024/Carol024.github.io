@@ -6,7 +6,16 @@
     <description>Recent content on Hugo Cactus Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jun 2022 23:44:54 +0800</lastBuildDate><atom:link href="https://Carol024.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jul 2022 23:21:03 +0800</lastBuildDate><atom:link href="https://Carol024.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstBlog</title>
+      <link>https://Carol024.github.io/post/firstblog/</link>
+      <pubDate>Fri, 01 Jul 2022 23:21:03 +0800</pubDate>
+      
+      <guid>https://Carol024.github.io/post/firstblog/</guid>
+      <description>##Carol的第一篇博客，get√</description>
+    </item>
+    
     <item>
       <title>Blog</title>
       <link>https://Carol024.github.io/post/blog/</link>
